@@ -16,7 +16,7 @@ I made this program out of sheer boredom and a desire to understand a little bit
 - tqdm
 - warnings
 
-##Running The Program
+## Running The Program
 Run like a normal python file. The prompts are quite self-explanatory.
 1. Provide the tickers of all the listed equities you want to be considered for the portfolio.
 2. The next prompt asks you to identify ETFs, this is so you can hard-code the volatility of the ETFs because the calculated volatility doesn't necessarily reflect the true volatility of the underlying index (difference in listing times and personal preference). You can do this for any listing you wish to hard code the volatility for.
