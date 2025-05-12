@@ -28,4 +28,5 @@ Run like a normal python file. The prompts are quite self-explanatory.
 8. Close the weightings screen to change minimum allocation constraints if there are particular assets you want in the portfolio for reasons that won't be quantified by the program.
 9. Repeat 7 and 8 until you reach a final product which will then be presented to you once you opt to make no more minimum allocation alterations.
 
-This program is was created with the assistance of an LLM. 
+## Policy
+As AI becomes increasingly present in the world of software development, I have began using it as a tool to speed up development of my problem solving programs. This is a case of that in which LLMs were used to assist in debugging/generating boilerplate code.
